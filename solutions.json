@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": ["din2fqfm-odg5-ghdi-keko-mp9l9np8idqk"],
+        "value": "Compliance-Ready Technical Documentation & DITA Solutions | Metapercept"
+      },
+      "metaDescription": {
+        "chunk_references": ["ejo3grgn-peh6-hiej-lflp-nq0m0oq9jerl"],
+        "value": "Enterprise technical documentation solutions: DITA implementation and AI automation. Proven ROI with expertise at scale."
+      },
+      "documentURL": {
+        "chunk_references": ["fkp4hsho-qfi7-ijfk-mgmq-or1n1pr0kfsm"],
+        "value": "https://metapercept.com/solutions/"
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Compliance-Ready Technical Documentation & DITA Solutions | Metapercept",
+      "metaDescription": "Enterprise technical documentation solutions: DITA implementation and AI automation. Proven ROI with expertise at scale.",
+      "documentURL": "https://metapercept.com/solutions/"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": ["glq5itip-rgj8-jkgl-nhnr-ps2o2qs1lgtn"],
+          "value": "Enterprise Solutions That Transform Documentation Workflows"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": ["hmr6jujq-shk9-klhm-oios-qt3p3rt2mhuo"],
+          "value": "We deliver AI-powered, process-driven content solutions that reduce costs, improve quality, ensure compliance, and accelerate delivery, modernizing enterprise technical documentation with scalable, structured operations for regulated industries, from strategic consulting to full-scale implementation."
+        }
+      }
+    ],
+    "solutions": [
+      {
+        "category": "Technical Communication Solutions",
+        "heading": {
+          "chunk_references": ["ins7kvkr-til0-lmin-pjpt-ru4q4su3nivp"],
+          "value": "Transform Enterprise Content with Structured, AI-Powered Technical Communication"
+        },
+        "content": {
+          "chunk_references": ["jot8lwls-ujm1-mnjo-qkqu-sv5r5tv4ojwq"],
+          "value": "Our technical communication solutions combine structured authoring, DITA-XML consulting, and AI-powered content automation to deliver scalable, compliance-ready technical documentation. We enable enterprises to unify fragmented content, improve discoverability, and accelerate publishing cycles, ensuring regulatory compliance and seamless multi-channel delivery."
+        },
+        "keyBenefits": {
+          "chunk_references": ["kpu9mxmt-vkn2-nokp-rlrv-tw6s6uw5pkxr"],
+          "value": [
+            "End-to-end DITA-XML implementation and CCMS integration for enterprise scalability",
+            "AI-powered content migration and transformation with up to 99% accuracy.",
+            "Documentation workflows optimized for compliance (FDA, ISO, HIPAA, S1000D).",
+            "Multi-channel, single-source publishing (web, PDF, HTML5, mobile, AR/VR)."
+          ]
+        },
+        "link": "https://metapercept.com/solutions/technical-communication/"
+      },
+      {
+        "category": "CCMS Implementation & Integration",
+        "heading": {
+          "chunk_references": ["lqv0nynu-wlo3-oplq-smsw-ux7t7vx6qlys"],
+          "value": "Seamless content management at scale."
+        },
+        "keyBenefits": {
+          "chunk_references": ["mrw1ozov-xmp4-pqmr-tntx-vy8u8wy7rmzt"],
+          "value": [
+            "Deploy enterprise-grade CCMS with optimized content workflows.",
+            "Enable efficient content versioning, reuse, and collaboration.",
+            "Integrate seamlessly with web portals, knowledge bases, and translation tools.",
+            "Ensure scalable, future-ready content flow from selection to deployment."
+          ]
+        },
+        "link": "https://metapercept.com/solutions/ccms-implementation/"
+      },
+      {
+        "category": "Technical Publication",
+        "heading": {
+          "chunk_references": ["nsx2papw-ynq5-qrns-uouy-wz9v9xz8snau"],
+          "value": "End-to-End Publishing Excellence."
+        },
+        "keyBenefits": {
+          "chunk_references": ["oty3qbqx-zor6-rsot-vpvz-xa0w0ya9tobv"],
+          "value": [
+            "Comprehensive publishing across multiple channels and formats.",
+            "Automated compliance for FDA, HIPAA, S1000D, and industry standards.",
+            "Achieve up to 45% increase in ROI through optimized publication workflows.",
+            "Support global localization to ensure consistency across markets."
+          ]
+        },
+        "link": "https://metapercept.com/solutions/technicalpublication/"
+      },
+      {
+        "category": "Content Conversion & AI",
+        "heading": {
+          "chunk_references": ["puz4rcry-aps7-stpu-wqwa-yb1x1zb0upcw"],
+          "value": "Transform Content with Intelligence."
+        },
+        "subHeading": {
+          "chunk_references": ["qva5sdsz-bqt8-tuqv-xrxb-zc2y2ac1vqdx"],
+          "value": "metR-AI: Beyond Conversion"
+        },
+        "keyBenefits": {
+          "chunk_references": ["rwb6teta-cru9-uvrw-ysyc-ad3z3bd2wrey"],
+          "value": [
+            "Automated conversion of unstructured to structured content formats.",
+            "AI-driven enrichment ensures semantic accuracy and contextual relevance.",
+            "Optimized content workflows for machine learning and AI applications.",
+            "Scalable enterprise-ready processing for large content volumes."
+          ]
+        },
+        "link": "https://met-r.io"
+      },
+      {
+        "category": "Software Development Solutions",
+        "heading": {
+          "chunk_references": ["sxc7ufub-dsv0-vwsx-ztzd-be4a4ce3xsfz"],
+          "value": "Drive Innovation with Custom Engineering and Scalable Software Solutions"
+        },
+        "content": {
+          "chunk_references": ["tyd8vgvc-etw1-wxty-auae-cf5b5df4ytga"],
+          "value": "Our software development solutions combine bespoke application engineering, plugin development, and AI-driven integration to streamline enterprise workflows. From DITA-OT customization to API-first development, we deliver scalable solutions that simplify content delivery, strengthen compliance, and accelerate digital transformation."
+        },
+        "keyBenefits": {
+          "chunk_references": ["uze9whwd-fux2-xyuz-bvbf-dg6c6eg5zuhb"],
+          "value": [
+            "End-to-end custom engineering for enterprise applications, dashboards, and automation.",
+            "Seamless integration with CCMS, ERP, CRM, and headless CMS platforms.",
+            "Plugin development for DITA-OT, CCMS extensions, and publishing workflows.",
+            "AI-powered data transformation and semantic enrichment for intelligent content systems."
+          ]
+        },
+        "link": "https://metapercept.com/solutions/custom-engineering/"
+      },
+      {
+        "category": "Software Engineering",
+        "heading": {
+          "chunk_references": ["vaf0xixe-gvy3-yzva-cwcg-eh7d7fh6avic"],
+          "value": "AI-Enhanced Development for Documentation Excellence."
+        },
+        "keyBenefits": {
+          "chunk_references": ["wbg1yjyf-hwz4-zawb-dxdh-fi8e8gi7bwjd"],
+          "value": [
+            "Automated content generation streamlines documentation creation and updates.",
+            "AI-driven quality assurance ensures accuracy, consistency, and compliance.",
+            "Intelligent content architecture for scalability and seamless information flow.",
+            "Automated testing integration improving reliability of documentation systems."
+          ]
+        },
+        "link": "https://metapercept.com/solutions/softwareengineering/"
+      },
+      {
+        "category": "Strategic Consulting Solutions",
+        "heading": {
+          "chunk_references": ["xch2zkzg-ixa5-abxc-eyei-gj9f9hj8cxke"],
+          "value": "Executive-Level Content Transformation."
+        },
+        "keyBenefits": {
+          "chunk_references": ["ydi3alah-jyb6-bcyd-fzfj-hk0g0ik9dylf"],
+          "value": [
+            "Comprehensive content audits with gap analysis and ROI insights.",
+            "Technology roadmaps with forecasting, budgeting, and risk mitigation.",
+            "Change management support ensures 90%+ user adoption success.",
+            "Executive-ready business cases with ROI projections and success metrics."
+          ]
+        },
+        "link": "https://metapercept.com/solutions/consulting/"
+      },
+      {
+        "category": "Knowledge Management Solutions",
+        "heading": {
+          "chunk_references": ["zej4bmbi-kzc7-cdze-gagk-il1h1jl0ezmg"],
+          "value": "Enterprise Content Intelligence."
+        },
+        "keyBenefits": {
+          "chunk_references": ["afk5cncj-lad8-deaf-hbhl-jm2i2km1fanh"],
+          "value": [
+            "AI-powered search improves content findability and access by 75%.",
+            "Automated curation identifies gaps, outdated information, and optimization needs.",
+            "Knowledge analytics deliver insights on usage patterns and business impact.",
+            "Collaborative platforms capture and systematize expertise from subject matter experts."
+          ]
+        },
+        "link": "https://metapercept.com/solutions/knowledge-management-system/"
+      },
+      {
+        "category": "AI Authoring and Content Solutions",
+        "heading": {
+          "chunk_references": ["bgl6dodk-mbe9-efbg-icim-kn3j3ln2gboi"],
+          "value": "Comprehensive Capability Development."
+        },
+        "keyBenefits": {
+          "chunk_references": ["chm7epel-ncf0-fgch-jdjn-lo4k4mo3hcpj"],
+          "value": [
+            "Build in-house expertise reducing reliance on external consultants.",
+            "Train high-performing documentation teams for sustained business success.",
+            "Leverage AI tools to enhance writing, quality, and efficiency.",
+            "Implement modern ContentOps workflows integrating DevOps and content management."
+          ]
+        }
+      }
+    ]
+  }
+}
