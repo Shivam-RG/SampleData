@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": ["c1dfe1c7-b8ac-4d8a-b672-cccb4cb20e67"],
+        "value": "Application Integration Solutions | Metapercept"
+      },
+      "metaDescription": {
+        "chunk_references": ["1d41d1a0-89b7-4a71-98af-01d7d9ac27ce"],
+        "value": "Seamlessly integrate ERP, CRM, TMS, and development tools with your content ecosystem. Automate workflows, improve accuracy, and accelerate content delivery."
+      },
+      "documentURL": {
+        "chunk_references": ["b5d57d28-0d22-498b-9a69-0b5b3c820f07"],
+        "value": "https://metapercept.com/services/softwaredevelopment/application-integration/"
+      }
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": ["22c3a99f-703f-4f32-8e49-b3488b3f7b52"],
+          "value": "Seamless Enterprise Application Integration"
+        },
+        "subHeading": {
+          "chunk_references": ["6cbdbbb6-4ed0-4a6f-8780-0b5929f98a6e"],
+          "value": "Connect your content platforms to enable real-time synchronization, automation, and workflow optimization."
+        },
+        "content": {
+          "chunk_references": ["9b6b6b2d-36fc-4bc3-8784-8081a6a7a06b"],
+          "value": "At Metapercept, we deliver enterprise-grade integration solutions that connect your technical documentation ecosystem with business systems. By eliminating silos, automating workflows, and leveraging an API-first architecture, we ensure real-time synchronization, data validation, and future-ready scalability across enterprise content volumes. Our expertise spans integration with Git-based documentation workflows aligned with DevOps, translation management automation, and analytics for content performance tracking. Proven ROI includes 60% fewer manual updates, 99% accuracy across systems, and 40% faster delivery, simplifying cross-platform operations while improving governance and scalability."
+        }
+      }
+    ],
+    "servicesSummary": [
+      {
+        "serviceName": {
+          "chunk_references": ["d65c08f6-7d43-48ad-96f4-7601d4390da2"],
+          "value": "Key Benefits"
+        },
+        "summary": {
+          "chunk_references": ["d65c08f6-7d43-48ad-96f4-7601d4390da2"],
+          "value": "Integrate ERP, CRM, and dev tools for real-time content sync. Automate localization workflows with collaborative authoring. Ensure accuracy with API-first validation. Achieve ROI: 60% fewer updates, 99% accuracy, 40% faster delivery. Future-ready integration for enterprise scalability."
+        }
+      }
+    ]
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Application Integration Solutions | Metapercept",
+      "metaDescription": "Seamlessly integrate ERP, CRM, TMS, and development tools with your content ecosystem. Automate workflows, improve accuracy, and accelerate content delivery.",
+      "documentURL": "https://metapercept.com/services/softwaredevelopment/application-integration/"
+    },
+    "heroSections": [
+      {
+        "heading": "Seamless Enterprise Application Integration",
+        "subHeading": "Connect your content platforms to enable real-time synchronization, automation, and workflow optimization.",
+        "content": "At Metapercept, we deliver enterprise-grade integration solutions that connect your technical documentation ecosystem with business systems. By eliminating silos, automating workflows, and leveraging an API-first architecture, we ensure real-time synchronization, data validation, and future-ready scalability across enterprise content volumes. Our expertise spans integration with Git-based documentation workflows aligned with DevOps, translation management automation, and analytics for content performance tracking. Proven ROI includes 60% fewer manual updates, 99% accuracy across systems, and 40% faster delivery, simplifying cross-platform operations while improving governance and scalability."
+      }
+    ],
+    "servicesSummary": [
+      {
+        "serviceName": "Key Benefits",
+        "summary": "Integrate ERP, CRM, and dev tools for real-time content sync. Automate localization workflows with collaborative authoring. Ensure accuracy with API-first validation. Achieve ROI: 60% fewer updates, 99% accuracy, 40% faster delivery. Future-ready integration for enterprise scalability."
+      }
+    ]
+  }
+}
